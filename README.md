@@ -1,4 +1,4 @@
-## hi, i'm Sreeram S
+## Hi, i'm Sreeram S
 
 I'm a AI enthusiast 💻 <br/>
 I'm also a data scientist from a physics degree background with a passion to do research 👨‍🔬 <br/>
